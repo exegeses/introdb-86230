@@ -23,10 +23,10 @@
 ## Requisitos de software:
 
 > Servidor de MySQL (software oficial):  
-[MySQL Community Server](https://downloads.mysql.com/archives/community/)
+[![MySQL Server](https://img.shields.io/badge/MySQL_Server-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white&scale=1.5)](https://downloads.mysql.com/archives/community/)
 
 > Administrador de Servidor de MySQL:   
-[MySQL Workbench](https://downloads.mysql.com/archives/workbench/)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white&scale=1.5)](https://downloads.mysql.com/archives/workbench/)
 
 
 ----
