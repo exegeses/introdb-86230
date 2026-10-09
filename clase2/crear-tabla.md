@@ -13,4 +13,40 @@ USE introdb;
 
 Ahora si estamos listos para crear una tabla
 Cuándo creemos una tabla debemos ponerle nombre y estructura.
-La estructura es nombres de campos, tipos de datos y modificadores
+La estructura es nombres de campos, tipos de datos y restricciones.
+
+```sql
+CREATE TABLE nombre 
+(
+    nombreCampo tipoDato [restricciones],
+    nombreCampo tipoDato [restricciones],
+    nombreCampo tipoDato [restricciones],
+    nombreCampo tipoDato [restricciones]
+);
+```
+
+Ejemplo práctico: 
+```sql
+CREATE TABLE clientes
+(
+    idCliente int auto_increment primary key,
+    nombre varchar(50) not null,
+    apellido varchar(50) not null, 
+    dni int unique not null,
+    telefono varchar(25) not null,
+    email varchar(75),
+    fechaAlta date not null
+);
+```
+
+## Eliminar una tabla
+Para eliminar una tabla utilizamos el comando **DROP TABLE**
+
+```sql
+DROP TABLE nombreTabla;
+```
+
+### Ver la estructrura de una tabla
+```sql
+describe nombreTabla;
+```
