@@ -1,0 +1,28 @@
+INSERT INTO proveedores
+    (razonSocial, cuit, telefono, email, direccion)
+VALUES
+    ('Apple Argentina S.R.L.', '30-71234567-8', '+54 11 5234-5600', 'contacto@apple-ar.com', 'Av. Libertador 7200, CABA'),
+    ('Xiaomi Technology Corp Argentina', '30-71456789-4', '+54 11 4123-7800', 'ventas@xiaomi.com.ar', 'Corrientes 1500, CABA'),
+    ('Hisense Cono Sur S.A.', '30-71890123-5', '+54 11 4321-9000', 'info@hisense.com.ar', 'Panamericana Km 32, Olivos'),
+    ('Philips Hue Distribuciones S.A.', '30-70567890-1', '+54 11 4765-4321', 'soporte@philipshue.com.ar', 'Bouchard 680, CABA'),
+    ('Nanoleaf Latam S.R.L.', '30-71678901-2', '+54 11 5555-1234', 'ventas@nanoleaf.la', 'Honduras 4800, CABA'),
+    ('Aqara Smart Home Argentina', '30-71901234-3', '+54 11 4890-5678', 'contacto@aqara.com.ar', 'Thames 2100, CABA'),
+    ('Eve Systems Distributor S.A.', '30-71345678-9', '+54 11 4987-6543', 'info@evehome.com.ar', 'Av. Santa Fe 3200, CABA'),
+    ('TP-Link Argentina S.A.', '30-70890123-6', '+54 11 4812-3400', 'ventas@tp-link.com.ar', 'Paraguay 631, CABA'),
+    ('Withings Health Solutions S.R.L.', '30-71567890-7', '+54 11 5123-4567', 'contacto@withings.com.ar', 'Arenales 2400, CABA'),
+    ('Samsung Electronics Argentina S.A.', '30-68541236-4', '+54 11 4837-7000', 'b2b@samsung.com.ar', 'Leandro N. Alem 855, CABA'),
+    ('Google Argentina S.R.L.', '30-70912345-8', '+54 11 5353-8000', 'argentina@google.com', 'Madero 942, CABA'),
+    ('Amazon Web & Devices Argentina', '30-71789012-3', '+54 11 5252-9900', 'devices@amazon.com.ar', 'Cerrito 1250, CABA'),
+    ('Ecobee Smart Climate S.A.', '30-71212345-5', '+54 11 4777-8899', 'ventas@ecobee.com.ar', 'Fitz Roy 1500, CABA'),
+    ('Govee Lighting Latam S.R.L.', '30-71323456-6', '+54 11 4555-3322', 'info@govee.com.ar', 'Niceto Vega 5500, CABA'),
+    ('TCL Multimedia Argentina S.A.', '30-71023456-7', '+54 11 4234-5678', 'comercial@tcl.com.ar', 'Av. Cabildo 2200, CABA'),
+    ('Meross IoT Solutions S.R.L.', '30-71434567-8', '+54 11 4666-7788', 'contacto@meross.com.ar', 'Godoy Cruz 2800, CABA'),
+    ('Asus Argentina S.A.', '30-70789012-1', '+54 11 4711-2233', 'ventas@asus.com.ar', 'Av. Maipú 1200, Vicente López'),
+    ('Smart Devices Supplier S.R.L.', '30-71112233-4', '+54 11 4999-0011', 'ventas@smartdevices.com.ar', 'Suipacha 1111, CABA'),
+    ('Conectividad Total S.A.', '30-71556677-9', '+54 11 4333-2244', 'pedidos@conectividad.com.ar', 'Esmeralda 950, CABA'),
+    ('Automatización Hogar S.R.L.', '30-71889900-1', '+54 11 4888-9900', 'info@hogar-aut.com.ar', 'San Martín 660, CABA'),
+    ('Global Tech Supply S.A.', '30-70334455-2', '+54 11 4111-5566', 'contacto@globaltech.com.ar', 'Lavalle 450, CABA'),
+    ('Domótica Avanzada S.A.', '30-71223344-5', '+54 11 4777-1122', 'ventas@domoticaavanzada.ar', 'Reinares 321, Martínez'),
+    ('EcoSensor Argentina S.R.L.', '30-71667788-0', '+54 11 4222-3344', 'info@ecosensor.com.ar', 'Zapiola 1500, CABA'),
+    ('Digital Display Distribuidora S.A.', '30-71445566-3', '+54 11 4666-4455', 'comercial@digitaldisplay.ar', 'Av. Juan B. Justo 4500, CABA'),
+    ('NextGen Smart Solutions S.R.L.', '30-71990011-2', '+54 11 5444-8899', 'soporte@nextgen.com.ar', 'Uruguay 1000, CABA');

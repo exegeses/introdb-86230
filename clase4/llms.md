@@ -13,4 +13,4 @@ Vamos a usar un "Chat de IA" para poder generar datos de prueba
 10. Z (Knowledge Atlas Technology)
 11. Kimi <https://kimi-ai.chat/chat/>
 
-> ver: <https://arena.ai/es/leaderboard>
+ver: <https://arena.ai/es/leaderboard>
