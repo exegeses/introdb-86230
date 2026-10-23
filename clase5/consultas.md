@@ -58,4 +58,5 @@ Hasta ahora nuestra sintaxis es la siguiente:
     SELECT [*, campo, campo]
       FROM nombreTabla;
 ```
-<img src="sintaxis.png">
+
+![Sintaxis](sintaxis.png)
